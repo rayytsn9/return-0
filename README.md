@@ -9,9 +9,9 @@
 
 ## Authors
 
-- Raynor Ananta     (rananta@ucsd.edu)
-- Sangyuan Lyu      (s9lyu@ucsd.edu)
-- jael Huhn         (jahuhn@ucsd.edu)
+- [Raynor Ananta](rananta@ucsd.edu)
+- [Sangyuan Lyu](s9lyu@ucsd.edu)
+- [jael Huhn](jahuhn@ucsd.edu)
 
 ## A Letter From the Editor
 
