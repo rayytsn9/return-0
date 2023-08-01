@@ -1,4 +1,3 @@
-# return 0 
 > <sub> means that the program will execute successfully and did what it was intended to do </sub>
 
 ## Table of Contents
