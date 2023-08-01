@@ -4,6 +4,7 @@
 
 - [Authors](https://rayytsn9.github.io/ROBOTT/#Authors)
 - [A Letter from the Editor](https://rayytsn9.github.io/ROBOTT/#A-Letter-From-the-Editor)
+- [Manifesto](https://rayytsn9.github.io/ROBOTT/#Manifesto)
 - [Deus Ex Machina](https://rayytsn9.github.io/ROBOTT/#Deus-Ex-Machina)
 - [Zine Design](https://rayytsn9.github.io/ROBOTT/#Zine-Design)
 
