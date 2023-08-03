@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
-- [Authors](https://rayytsn9.github.io/ROBOTT/#Authors)
-- [A Letter from the Editor](https://rayytsn9.github.io/ROBOTT/#A-Letter-From-the-Editor)
-- [Manifesto](https://rayytsn9.github.io/ROBOTT/#Manifesto)
-- [Deus Ex Machina](https://rayytsn9.github.io/ROBOTT/#Deus-Ex-Machina)
-- [What's Next?](https://rayytsn9.github.io/ROBOTT/#Zine-Design)
-- [Interview with a working professional](https://rayytsn9.github.io/ROBOTT/#Zine-Design)
-- [Developers and ChatGPT](https://rayytsn9.github.io/ROBOTT/#Zine-Design)
-- [Surveillance capitalism and Future CS Students](https://rayytsn9.github.io/ROBOTT/#Zine-Design)
-- [Anthropomorphizing AI](https://rayytsn9.github.io/ROBOTT/#Zine-Design)
-- [Zine Design](https://rayytsn9.github.io/ROBOTT/#Zine-Design)
+- [Authors](https://rayytsn9.github.io/return-0/#Authors)
+- [A Letter from the Editor](https://rayytsn9.github.io/return-0/#A-Letter-From-the-Editor)
+- [Manifesto](https://rayytsn9.github.io/return-0/#Manifesto)
+- [Deus Ex Machina](https://rayytsn9.github.io/return-0/#Deus-Ex-Machina)
+- [What's Next?](https://rayytsn9.github.io/return-0/#What's-Next)
+- [Interview with a working professional](https://rayytsn9.github.io/return-0/#Interview-with-a-working-professional)
+- [Developers and ChatGPT](https://rayytsn9.github.io/return-0/#Developers-and-ChatGPT)
+- [Surveillance capitalism and Future CS Students](https://rayytsn9.github.io/return-0/#Surveillance-capitalism-and-Future-CS-Students)
+- [Anthropomorphizing AI](https://rayytsn9.github.io/return-0/#Anthropomorphizing-AI)
+- [Zine Design](https://rayytsn9.github.io/return-0/#Zine-Design)
 
 ## Authors
 
