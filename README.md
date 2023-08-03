@@ -6,6 +6,11 @@
 - [A Letter from the Editor](https://rayytsn9.github.io/ROBOTT/#A-Letter-From-the-Editor)
 - [Manifesto](https://rayytsn9.github.io/ROBOTT/#Manifesto)
 - [Deus Ex Machina](https://rayytsn9.github.io/ROBOTT/#Deus-Ex-Machina)
+- [What's Next?](https://rayytsn9.github.io/ROBOTT/#Zine-Design)
+- [Interview with a working professional](https://rayytsn9.github.io/ROBOTT/#Zine-Design)
+- [Developers and ChatGPT](https://rayytsn9.github.io/ROBOTT/#Zine-Design)
+- [Surveillance capitalism and Future CS Students](https://rayytsn9.github.io/ROBOTT/#Zine-Design)
+- [Anthropomorphizing AI](https://rayytsn9.github.io/ROBOTT/#Zine-Design)
 - [Zine Design](https://rayytsn9.github.io/ROBOTT/#Zine-Design)
 
 ## Authors
@@ -25,5 +30,15 @@
 ## Deus Ex Machina
 
 <img width="644" alt="Screenshot 2023-08-01 at 12 44 51 PM" src="https://github.com/rayytsn9/return-0/assets/79029536/a77717f7-1d8d-479b-89e5-688c9c6bce64">
+
+## What's Next?
+
+## Interview with a working professional
+
+## Developers and ChatGPT
+
+## Surveillance capitalism and Future CS Students
+
+## Anthropomorphizing AI
 
 ## Zine Design
