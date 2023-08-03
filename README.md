@@ -33,12 +33,25 @@
 
 ## What's Next?
 
+<img width="525" alt="Screenshot 2023-08-03 at 12 35 45 PM" src="https://github.com/rayytsn9/return-0/assets/79029536/51fcdf79-83e3-4c15-a14a-b4450c0ac571">
+
 ## Interview with a working professional
+
+<img width="648" alt="Screenshot 2023-08-03 at 12 35 52 PM" src="https://github.com/rayytsn9/return-0/assets/79029536/084aef80-9f6d-415e-8cf1-21b8c0c6c5a5">
 
 ## Developers and ChatGPT
 
+<img width="652" alt="Screenshot 2023-08-03 at 12 36 24 PM" src="https://github.com/rayytsn9/return-0/assets/79029536/04d208eb-7c72-4759-a063-6bbefa84139a">
+<img width="650" alt="Screenshot 2023-08-03 at 12 36 28 PM" src="https://github.com/rayytsn9/return-0/assets/79029536/83ceabcc-eade-4e38-812f-f407a82a37bf">
+
 ## Surveillance capitalism and Future CS Students
 
+<img width="651" alt="Screenshot 2023-08-03 at 12 36 33 PM" src="https://github.com/rayytsn9/return-0/assets/79029536/b41ec36c-78b4-4278-a756-9eb25e6053ea">
+<img width="652" alt="Screenshot 2023-08-03 at 12 36 37 PM" src="https://github.com/rayytsn9/return-0/assets/79029536/29e52763-062e-428b-8b86-1ef556528dc5">
+
 ## Anthropomorphizing AI
+
+<img width="650" alt="Screenshot 2023-08-03 at 12 36 42 PM" src="https://github.com/rayytsn9/return-0/assets/79029536/b2b543f9-98ef-4229-a39a-8d0906eb4d41">
+
 
 ## Zine Design
